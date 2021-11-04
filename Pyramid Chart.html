@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Visualizaciones PEC2</title>
+	<script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+	<script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
+	<script type="text/javascript">
+		FusionCharts.ready(function() {
+		  var conversionChart = new FusionCharts({
+			type: 'pyramid',
+			renderAt: 'chart-container',
+			id: 'wealth-pyramid-chart',
+			width: '800',
+			height: '400',
+			dataFormat: 'json',
+			dataSource: {
+			  "chart": {
+				"theme": "fusion",
+				"caption": "Riqueza en el mundo",
+				"captionOnTop": "0",
+				"captionPadding": "25",
+				"alignCaptionWithCanvas": "1",
+				"subcaption": "Credit Suisse 2013",
+				"subCaptionFontSize": "12",
+				"borderAlpha": "20",
+				"is2D": "1",
+				"bgColor": "#ffffff",
+				"showValues": "1",
+				"numberPrefix": "$",
+				"numberSuffix": "M",
+				"plotTooltext": "$label de la población mundial vale $value USD ",
+				"showPercentValues": "1",
+				"chartLeftMargin": "40",
+				"showlegend": "0",
+				 "legendPosition": "RIGHT",
+					"showlabels": "1",
+				"isSliced": "1"
+			  },
+			  "data": [{
+				"label": "Top 32 millones (0.7%)",
+				"value": "98.7"
+			  }, {
+				"label": "361 millones (7.7%)",
+				"value": "101.8"
+			  }, {
+				"label": "1.1 billones (22.9%)",
+				"value": "33"
+			  }, {
+				"label": "3.2 billones (68.7%)",
+				"value": "7.3"
+			  }]
+			}
+		  });
+
+		  conversionChart.render();
+		});
+	</script>
+</head>
+	<body>
+		<table>
+			<tr>
+				<td>			
+					<a href='http://jsfiddle.net/XaviMarti/2om1b34v/17/'>Herramienta utilizada - Fussion Charts</a>
+				</td>
+				<td>			
+					<div id="chart-container">FusionCharts XT will load here!</div>
+				</td>
+		</table>
+	</body>
+</html>
