@@ -7,6 +7,8 @@ For the Pyramid Chart has been selected a bunch of data from a report from Credi
 
 The source of the data/infomation comes from: https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html
 
-The chart has been done by means of the Fussion Charts Tool. In the link below you can see the chart and also the source (code)
+The chart has been done by means of the Fussion Charts Tool. 
+
+In the link below you can see the chart and also the source (code)
 
 https://jomarca11.github.io/Visualization-PEC2.github.io/Pyramid%20Chart.html
