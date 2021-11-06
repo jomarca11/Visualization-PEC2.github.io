@@ -26,15 +26,14 @@ In the link below you can see the choropleth map.
 https://datawrapper.dwcdn.net/9SJrL/2/
 
 ## Mavericks and Heretics(línea temporal)
-![image](https://user-images.githubusercontent.com/66425146/140618466-f9fc991d-1b39-400a-917c-feb59d720f65.png)
 
-The Visualization shows us how the unemployment rate varies between the different Spanish autonomous communities
+The Visualization shows us the different stages in which the House of Austria reigned in Spain. In the timeline you can see the different events of when they were crowned.
 
-The source of the data/infomation comes from Instituto Nacional de Estadística, year 2021: https://www.ine.es/
+The source of the data/infomation comes from Wikipedia : https://es.wikipedia.org/wiki/Anexo:Reyes_de_Espa%C3%B1a
 
 The chart has been done by means of the DataWrapper Tool. https://www.datawrapper.de/
 
-In the link below you can see the choropleth map.
+In the link below you can see the temporal line.
 
-https://datawrapper.dwcdn.net/9SJrL/2/
+https://datawrapper.dwcdn.net/tb6pl/4/
 
