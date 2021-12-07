@@ -1,4 +1,3 @@
-This repository has been created  Data Visualization subjetc for Data Science Master at UOC
 ## Visualization-Subject-for-UOC - PEC2
 
 This Pec has been divided into 3 charts, and all of them are described below
