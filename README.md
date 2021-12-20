@@ -48,6 +48,6 @@ The visualization is created for Final Practice of Visualization subject.
 https://public.tableau.com/app/profile/jose.javier.marti.camarasa/viz/AccidentsinBarcelona_16395501411700/Causas_por_barrio?publish=yes
 It is telling about accidents occured in Barcelona in 2020
 
-The dataset used is opened, it comes under this licenseCreative Commons Attribution 4.0, so it can be freely used. Data comes from https://opendata-ajuntament.barcelona.cat/
+The dataset used is opened, it comes under this license,C**reative Commons Attribution 4.0**, so it can be freely used. Data comes from https://opendata-ajuntament.barcelona.cat/
 
 And the dataset is : 2020_ACCIDENTS_CAUSES_GU_BCN.csv
