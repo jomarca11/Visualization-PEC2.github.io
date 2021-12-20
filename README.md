@@ -42,3 +42,5 @@ This data visualization, Story Telling way, was created for PEC3 of Visualizatio
 Data for the below visualization come from this web : https://github.com/owid/covid-19-data/tree/master/public/data. Update regularly by https://ourworldindata.org/coronavirus, 
 
 Link for visualization:https://public.tableau.com/app/profile/jose.javier.marti.camarasa/viz/Covid19trackerVisualizationSubjectHistory/Covid19StoryTelling?publish=yes
+
+## Visualization-Subject-for-UOC - Final Practice - Visualization Creation
